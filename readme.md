@@ -4,7 +4,7 @@ O projeto se trata de um simples carrinho de compras onde o usuário poderá ver
 ## Objetivo do projeto
 O projeto tem como objetivo pôr em prática conhecimentos obtidos do PHP 8 e trazer novos desafios para que eu possa aprender e entender ainda mais sobre o PHP.
 
-## Tecnológias
+## Tecnologias
 O projeto será feito com tecnológias simples amplamente usadas no contexto Web, sendo estes:
 - HTML para estruturação das páginas Web.
 - CSS para a estilização das páginas.
