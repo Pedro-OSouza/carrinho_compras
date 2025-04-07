@@ -1,0 +1,42 @@
+    [
+        {
+            "id": 1,
+            "nome": "Máquina de Café",
+            "valor": 700.00,
+            "imgs": ["maquina-cafe-1.jpg",
+                    "maquina-cafe-2.jpg",
+                    "maquina-cafe-3.jpg"]
+        },
+        {
+            "id": 2,
+            "nome": "Sanduicheira",
+            "valor": 800.00,
+            "imgs": ["sanduicheira-1.jpg","sanduicheira-2.jpg", "sanduicheira-3.jpg"]
+        },
+        {
+            "id": 3,
+            "nome": "Ventilador",
+            "valor": 500.00,
+            "imgs": ["ventilador-1.jpg","ventilador-2.jpg"]
+        },
+        {
+            "id": 4,
+            "nome": "Gabinete",
+            "valor": 1350.00,
+            "imgs": ["gabinete-1.webp","gabinete-2.webp", "gabinete-3.webp"]
+        },
+        {
+            "id": 5,
+            "nome": "Mesa Digitalizadora",
+            "valor": 1400.00,
+            "imgs": ["mesa-digitalizadora-1.webp","mesa-digitalizadora-2.webp", "mesa-digitalizadora-3.webp"]
+        },
+        {
+            "id": 6,
+            "nome": "Caixinha de som portátil",
+            "valor": 116.00,
+            "imgs": ["caixinha-som-1.webp","caixinha-som-2.webp", "caixinha-som-3.webp"]
+        }
+    ]
+    
+
